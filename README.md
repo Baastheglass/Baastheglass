@@ -28,15 +28,15 @@ These stats update automatically every time I push code!
 
 <p align="left">
   <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baastheglass&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baastheglass&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <!-- Commit Streak Card -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baastheglass&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
